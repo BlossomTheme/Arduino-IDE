@@ -697,4 +697,157 @@
                 "foreground": "#dbcd00"
             }
         },
+        {
+            "name": "JAVASCRIPT Storage Type Function",
+            "scope": "source.js storage.type.function",
+            "settings": {
+                "foreground": "#ff25f0"
+            }
+        },
+        {
+            "name": "JAVASCRIPT Variable Language",
+            "scope": "variable.language, entity.name.type.class.js",
+            "settings": {
+                "foreground": "#3ec8ff"
+            }
+        },
+        {
+            "name": "JAVASCRIPT Inherited Component",
+            "scope": "entity.other.inherited-class.js",
+            "settings": {
+                "foreground": "#ff15ef"
+            }
+        },
+        {
+            "name": "VUE html",
+            "scope": "text.html.vue-html",
+            "settings": {
+                "foreground": "#ffd400"
+            }
+        },
+        {
+            "name": "Markdown titles",
+            "scope": "entity.name.section.markdown",
+            "settings": {
+                "foreground": "#FF058D"
+            }
+        },
+        {
+            "name": "Markdown link title",
+            "scope": "string.other.link.title.markdown",
+            "settings": {
+                "foreground": "#FF058D"
+            }
+        },
+        {
+            "name": "Markdown title hash",
+            "scope": "punctuation.definition.heading.markdown",
+            "settings": {
+                "foreground": "#FF058D"
+            }
+        },
+        {
+            "name": "Markdown Raw",
+            "scope": "markup.raw.inline.markdown",
+            "settings": {
+                "foreground": "#e9e9e9"
+            }
+        },
+        {
+            "name": "Markdown bold stars",
+            "scope": [
+                "punctuation.definition.bold.markdown",
+                "punctuation.definition.italic.markdown"
+            ],
+            "settings": {
+                "foreground": "#FF058D"
+            }
+        },
+        {
+            "name": "Markdown link title braces",
+            "scope": [
+                "punctuation.definition.string.begin.markdown",
+                "punctuation.definition.string.end.markdown"
+            ],
+            "settings": {
+                "foreground": "#ff22f0"
+            }
+        },
+        {
+            "name": "Markdown link braces",
+            "scope": "punctuation.definition.metadata.markdown",
+            "settings": {
+                "foreground": "#ff22f0"
+            }
+        },
+        {
+            "name": "Markdown link",
+            "scope": [
+                "markup.underline.link.markdown",
+                "markup.underline.link.image.markdown",
+                "meta.image.inline.markdown"
+            ],
+            "settings": {
+                "foreground": "#ff22f0",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Markdown bold/italic",
+            "scope": [
+                "markup.bold.markdown",
+                "markup.italic.markdown"
+            ],
+            "settings": {
+                "foreground": "#FF058D"
+            }
+        },
+        {
+            "name": "Markdown bold/italic",
+            "scope": "markup.italic.markdown",
+            "settings": {
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Markdown bold/italic",
+            "scope": "markup.bold.markdown",
+            "settings": {
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "name": "Markdown code block",
+            "scope": [
+                "fenced_code.block.language",
+                "markup.inline.raw.markdown"
+            ],
+            "settings": {
+                "foreground": "#FF058D"
+            }
+        },
+        {
+            "name": "Markdown inline code",
+            "scope": [
+                "fenced_code.block.language",
+                "markup.inline.raw.markdown"
+            ],
+            "settings": {
+                "foreground": "#FF058D"
+            }
+        },
+        {
+            "name": "Markdown paragraph",
+            "scope": "meta.paragraph.markdown",
+            "settings": {
+                "foreground": "#e1efff"
+            }
+        },
+        {
+            "name": "Markdown pre",
+            "scope": "markup.raw.block.markdown",
+            "settings": {
+                "foreground": "#ffffff"
+            }
+        },
 
