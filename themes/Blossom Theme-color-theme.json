@@ -518,4 +518,110 @@
                 "foreground": "#029fcf"
             }
         },
+        {
+            "scope": "constant.numeric.line-number.find-in-files - match",
+            "settings": {
+                "foreground": "#e92778"
+            }
+        },
+        {
+            "scope": "entity.name.filename.find-in-files",
+            "settings": {
+                //"foreground": "#ffdf52"
+                "foreground": "#FF058D"
+            }
+        },
+        {
+            "scope": "keyword.other",
+            "settings": {
+                //"foreground": "#983dff"
+                "foreground": "#a83dff"
+            }
+        },
+        {
+            "scope": [
+                "meta.property-value",
+                "support.constant.property-value",
+                "constant.other.color"
+            ],
+            "settings": {
+                "foreground": "#fd21ef"
+            }
+        },
+        {
+            "name": "JSON String",
+            "scope": "meta.structure.dictionary.json string.quoted.double.json",
+            "settings": {
+                "foreground": "#FF0081"
+            }
+        },
+        {
+            "name": "JSON Key",
+            "scope": "support.type.property-name.json",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#FF058D"
+            }
+        },
+        {
+            "scope": "meta.structure.dictionary.value.json string.quoted.double.json",
+            "settings": {
+                "foreground": "#0ef3ff"
+                //"foreground": "#5994CE"
+            }
+        },
+        {
+            "name": "Function argument",
+            "scope": "meta.property-name support.type.property-name",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#0ef3ff"
+            }
+        },
+        {
+            "name": "Function argument",
+            "scope": "meta.property-value punctuation.separator.key-value",
+            "settings": {
+                "foreground": "#44a1fd"
+            }
+        },
+        {
+            "name": "Function argument",
+            "scope": [
+                "keyword.other.use",
+                "keyword.other.function.use",
+                "keyword.other.namespace",
+                "keyword.other.new",
+                "keyword.other.special-method",
+                "keyword.other.unit",
+                "keyword.other.use-as"
+            ],
+            "settings": {
+                "foreground": "#EA00D9"
+            }
+        },
+        {
+            "name": "Function Argument",
+            "scope": "support.other.namespace.php",
+            "settings": {
+                "foreground": "#973dfd"
+            }
+        },
+        {
+            "name": "Function argument",
+            "scope": [
+                "meta.use"
+            ],
+            "settings": {
+                "foreground": "#2fb3ff",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "Function argument",
+            "scope": "variable.other",
+            "settings": {
+                "foreground": "#FF058D",
+                "fontStyle": ""
+            }
 
