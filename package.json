@@ -1,0 +1,21 @@
+{
+  "name": "blossom",
+  "displayName": "Blossom",
+  "description": "Blossom Theme for Arduino IDE",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BlossomTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BlossomTheme-color-theme.json"
+      }
+    ]
+  }
+}
