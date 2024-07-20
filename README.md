@@ -1,5 +1,7 @@
 # Blossom Theme for Arduino IDE
-
+## Preview 
+![](./screenshot01.png)
+![](./screenshot02.png)
 
 ## Installation v2.X
 1. Clone the Github Repository
