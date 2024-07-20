@@ -1,0 +1,73 @@
+// BlossomTheme for Arduino-IDE
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "BlossomTheme",
+    "author": "BlossomTheme",
+    "semanticClass": "theme.blossom",
+    "semanticHighlighting": true,
+    "blossom": {
+        "base": [
+            "#10111b",
+            "#f9f7f2",
+            "#1f1f27",
+            "#403a72",
+            "#26b3d2",
+            "#00ff7d",
+            "#f46e00",
+            "#ea748f",
+            "#9200ff",
+            "#f70047",
+            "#fcdd42"
+        ],
+        "ansi": [
+            "#21222C",
+            "#f70047",
+            "#00ff7d",
+            "#fcdd42",
+            "#9200ff",
+            "#ea748f",
+            "#26b3d2",
+            "#f9f7f2",
+            "#403a72",
+            "#FF6E6E",
+            "#69FF94",
+            "#FFFFA5",
+            "#D6ACFF",
+            "#FF92DF",
+            "#A4FFFF",
+            "#FFFFFF"
+        ],
+        "brightOther": [
+            "#E9F284",
+            "#8BE9FE"
+        ],
+        "other": [
+            "#1f1f2775",
+            "#FFFFFF1A",
+            "#FFFFFF",
+            "#1f1f2770",
+            "#424450",
+            "#343746",
+            "#21222C",
+            "#191A21"
+        ]
+    },
+    "colors": {
+        "terminal.background": "#10111b",
+        "terminal.foreground": "#f9f7f2",
+        "terminal.ansiBrightBlack": "#403a72",
+        "terminal.ansiBrightRed": "#f70047",
+        "terminal.ansiBrightGreen": "#00ff7d",
+        "terminal.ansiBrightYellow": "#ffff55",
+        "terminal.ansiBrightBlue": "#9200ff",
+        "terminal.ansiBrightMagenta": "#FF69B4",
+        "terminal.ansiBrightCyan": "#26b3d2",
+        "terminal.ansiBrightWhite": "#f9f7f2",
+        "terminal.ansiBlack": "#1f1f27",
+        "terminal.ansiRed": "#f70047",
+        "terminal.ansiGreen": "#00ff7d",
+        "terminal.ansiYellow": "#ffff55",
+        "terminal.ansiBlue": "#9200ff",
+        "terminal.ansiMagenta": "#FF69B4",
+        "terminal.ansiCyan": "#26b3d2",
+        "terminal.ansiWhite": "#f9f7f2",
