@@ -343,3 +343,58 @@
                 "foreground": "#ffd400"
             }
         },
+        {
+            "name": "Variable Other Object JSX",
+            "scope": [
+                "variable.other.object.js",
+                "variable.other.object.jsx",
+                "variable.object.property.js",
+                "variable.object.property.jsx"
+            ],
+            "settings": {
+                "foreground": "#40a9ff"
+            }
+        },
+        {
+            "name": "Punctuation Parameters",
+            "scope": "punctuation.definition.parameters",
+            "settings": {
+                "foreground": "#ffee80"
+            }
+        },
+        {
+            "name": "Punctuation Template Expression",
+            "scope": "punctuation.definition.template-expression",
+            "settings": {
+                "foreground": "#ffee80"
+            }
+        },
+        {
+            "name": "Class name",
+            "scope": [
+                "entity.name.class",
+                "entity.name.type.class"
+            ],
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#8700D9"
+            }
+        },
+        {
+            "name": "Entity",
+            "scope": "entity",
+            "settings": {
+                "foreground": "#ffd400"
+            }
+        },
+        {
+            "name": "Inherited class",
+            "scope": [
+                "entity.other.inherited-class",
+                "meta.other.inherited-class.php"
+            ],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#6ab0ff"
+            }
+        },
