@@ -618,10 +618,83 @@
             }
         },
         {
-            "name": "Function argument",
+            "name": "Function argument",    
             "scope": "variable.other",
             "settings": {
                 "foreground": "#FF058D",
                 "fontStyle": ""
             }
+        },
+        {
+            "name": "PHPDoc Keyword",
+            "scope": "keyword.other.phpdoc.php",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#35a3fd"
+            }
+        },
+        {
+            "name": "Coffeescript Function argument",
+            "scope": "variable.parameter.function.coffee",
+            "settings": {
+                "foreground": "#FF058D",
+                "fontStyle": ""
+            }
+        },
+        {
+            "name": "PYTHON Self Argument",
+            "scope": "variable.parameter.function.language.special.self.python",
+            "settings": {
+                "foreground": "#FF058D"
+            }
+        },
+        {
+            "name": "TYPESCRIPT Entity Name Type",
+            "scope": "source.ts entity.name.type",
+            "settings": {
+                "foreground": "#dbcd00"
+            }
+        },
+        {
+            "name": "TYPESCRIPT Keyword",
+            "scope": "source.ts keyword",
+            "settings": {
+                "foreground": "#ff25f0"
+            }
+        },
+        {
+            "name": "TYPESCRIPT Punctuation Parameters",
+            "scope": "source.ts punctuation.definition.parameters",
+            "settings": {
+                "foreground": "#dbcd00"
+            }
+        },
+        {
+            "name": "TYPESCRIPT Punctuation Arrow Parameters",
+            "scope": "meta.arrow.ts punctuation.definition.parameters",
+            "settings": {
+                "foreground": "#ffee80"
+            }
+        },
+        {
+            "name": "TYPESCRIPT Storage",
+            "scope": "source.ts storage",
+            "settings": {
+                "foreground": "#0ef3ff"
+            }
+        },
+        {
+            "name": "TYPESCRIPT Variable Language",
+            "scope": "variable.language, entity.name.type.class.ts, entity.name.type.class.tsx",
+            "settings": {
+                "foreground": "#FF058D"
+            }
+        },
+        {
+            "name": "TYPESCRIPT Inherited Component",
+            "scope": "entity.other.inherited-class.ts, entity.other.inherited-class.tsx",
+            "settings": {
+                "foreground": "#dbcd00"
+            }
+        },
 
